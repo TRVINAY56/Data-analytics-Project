@@ -27,7 +27,7 @@ This folder includes my Tableau projects, showcasing the use of Tableau's intera
   - Provides insights into the sales, profit, and performance of a global retail chain.
   - Visualizes trends across various regions, product categories, and customer segments.
 
-> For more Tableau projects, visit the **[Tableau Projects folder](https://github.com/mdkeum/data-analytics-portfolio/tree/main/Tableau_Projects)**.
+> For more Tableau projects, visit the **[Tableau Projects folder](https://github.com/TRVINAY56/Data-analytics-Project/tree/main/Tableau_Projects)**.
 *N.B: Please note that going to project folder you cannot see the projects live but you can download the projects and see it in your local macnine if you have Tableau software installed in your local machine.*
 # Too see the *Tableau* projects live without installing any software:
 ## Project-1: See [here](https://public.tableau.com/app/profile/md.keum.uddin.pathan/viz/Tableau_Project-01/Dashboard1)
