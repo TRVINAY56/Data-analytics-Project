@@ -12,7 +12,7 @@ In this folder, you will find my Power BI projects, which focus on creating inte
   - Interactive visuals with month, product, and region-based filters.
   - Key KPIs: Revenue, Average Price per Unit, and Units Sold.
 
-> For more Power BI projects, visit the **[Power BI Projects folder]( https://github.com/mdkeum/data-analytics-portfolio/tree/main/Power_BI_Projects)**.
+> For more Power BI projects, visit the **[Power BI Projects folder](https://github.com/TRVINAY56/Data-analytics-Project/tree/main/Tableau_Projects)**.
 *N.B: Please note that going to project folder you cannot see the projects live but you can download the projects and see it in your local macnine if you have Power BI software installed in your local machine.*
 # Too see the *Power BI* projects live without installing any software:
 ## Project-1: See [here](https://app.powerbi.com/view?r=eyJrIjoiOTRmMjhhMTgtYjFmMy00YzFhLWEyY2UtNTgzN2U1NjZjZDM0IiwidCI6IjE3NDQyNjE5LTRmODAtNGM3Yy1hNzY2LWNlZmRiNzBhNTU3MSIsImMiOjEwfQ%3D%3D)
